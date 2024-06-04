@@ -48,8 +48,6 @@ alsamixer
 gcc {file_name.cpp} -lasound -Wno-write-strings -o {exe_name}
 ```
 
-### docker: [kimakuma8/ubuntu:project3](https://hub.docker.com/layers/kimakuma8/ubuntu/project3/images/sha256-a7c68cba54a68254646067b6d37e700e0ff1d643d7900beafe8b2a5fcd9ea4f2?context=repo)
-
 ---
 
 ## Architecture
