@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=006EDB&fontColor=DEEAF7&height=200&section=header&text=PINLAB&desc=Project%203&descAlignY=80&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=006EDB&fontColor=DEEAF7&height=200&section=header&text=PINLAB&desc=Two-Way%20Real-Time%20Voice%20Communication&descAlignY=80&fontSize=90)
 # PINLAB_Project2 
-Two-Way Real-Time Voice Communication on Raspberry PI
+- Two-Way Real-Time Voice Communication on Raspberry PI
 
 ---
 
